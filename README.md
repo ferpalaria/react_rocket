@@ -1,8 +1,12 @@
-# React + Vite
+# React - Rocket Notes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is developed based on [React](https://react.dev/) and [Style Component](https://styled-components.com/) and there is a learning purpose.
 
-Currently, two official plugins are available:
+This project is designed to save favorite links 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For detailed Dependencies used at this project, please check [package.json](./package.json)
+
+## Future featues
+- Integrate with backend
+
+
