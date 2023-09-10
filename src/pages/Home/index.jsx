@@ -37,14 +37,14 @@ export function Home(){
                             title:'React',
                             tags:[
                                 {id: 1, name:'react'},
-                                {id:1, name: 'rocketseat'}
+                                {id: 1, name: 'rocketseat'}
                             ]
                         }}
                     />
                 </Section>
             </Content>
 
-            <NewNote>
+            <NewNote to="/new">
                 <FiPlus />
                 Criar Nota
             </NewNote>
